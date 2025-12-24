@@ -41,7 +41,7 @@ After successful execution, a new Google Doc will be created in your Google Driv
 
 ### Run Locally (Optional)
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/meghnauppuluri-design/google-docs-markdown-converter.git
    cd your-repository-name
 2. Install dependencies:
    pip install -r requirements.txt
